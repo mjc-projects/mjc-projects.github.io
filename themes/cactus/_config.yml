@@ -44,7 +44,7 @@ social_links:
     #label: mastodon.social
     #link: https://mastodon.social/@alice
   -
-    icon: linkedIn
+    icon: linkedin
     label: LinkedIn
     link: https://www.linkedin.com/in/michaeljamesclarkmjc/
 
