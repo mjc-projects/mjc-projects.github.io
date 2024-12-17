@@ -9,7 +9,7 @@ I'm not sure what to throw out here.
 
 No one is going to see it, but they could so I don't want this to get too personal.
 
-Some ideas I am throwing around in my head:
+Some ideas I am throwing around in my head
 
 ``` bash
 - A flood of my terrible opinions on tabletop RPGs, running games and game design
